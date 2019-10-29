@@ -5,20 +5,13 @@ Python code for NeurIPS 2019 paper: J. Sun, T. Chen, G.B. Georgios and Z. Yang, 
 
 Please cite our paper if our code helps you in your research.
 
-、、、
 @inproceedings{sun2019,
   title={Communication-Efficient Distributed Learning via Lazily Aggregated Quantized Gradients},
-  
   author={Sun,Jun and Chen, Tianyi and Giannakis, Georgios and Yang, Zaiyue},
-  
   booktitle="Proc. Advances in Neural Info. Process. Syst.",
-  
   url={https://arxiv.org/abs/1909.07588},
-  
   year={2019},
-  
   month={Dec},
-  
   address={Vancouver, Canada}
 }
-、、、
+
