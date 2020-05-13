@@ -14,9 +14,10 @@ Please cite our paper if our code helps you in your research.
 
 ```
 
+or
 
-%```
-%@inproceedings{sun2019,
+```
+@inproceedings{sun2019,
   title={Communication-Efficient Distributed Learning via Lazily Aggregated Quantized Gradients},
   author={Sun,Jun and Chen, Tianyi and Giannakis, Georgios and Yang, Zaiyue},
   booktitle="Proc. Advances in Neural Info. Process. Syst.",
